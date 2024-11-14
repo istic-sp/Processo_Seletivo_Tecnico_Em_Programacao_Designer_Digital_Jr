@@ -12,11 +12,17 @@ Criar um protótipo funcional que apresente soluções voltadas para o bem-estar
 ## Ferramenta Sugerida
 - **Figma**
 
+## Tempo de prova
+- 1h30
+
 ## Critérios de Avaliação
 - **Criatividade**: A originalidade das ideias apresentadas.
 - **Abordagem de Solução**: Como as funcionalidades pensadas atendem ao bem-estar e engajamento dos colaboradores.
 - **Qualidade do Protótipo**: Organização, consistência visual e clareza da interface.
 - **Usabilidade**: Facilidade de navegação e acesso aos recursos pensados.
+
+## Guia de Estilos:
+- https://www.figma.com/design/R0TdKCm6PsxxmnV7zAxUiR/Untitled?node-id=0-1&t=kMqzNWHaVImGaeor-1(https://www.figma.com/design/R0TdKCm6PsxxmnV7zAxUiR/Untitled?node-id=0-1&t=kMqzNWHaVImGaeor-1)
 
 ## Proposta de Estrutura
 Sinta-se livre para definir as telas e os elementos que comporão a solução. O protótipo deve focar em funcionalidades e design que promovam o bem-estar e o engajamento dos colaboradores, considerando:
@@ -26,7 +32,7 @@ Sinta-se livre para definir as telas e os elementos que comporão a solução. O
 - **Perfil do Colaborador**: Como o colaborador poderá personalizar e acompanhar suas preferências e progresso.
 - **Engajamento e Feedback**: Como os colaboradores podem interagir e fornecer feedback na plataforma.
 
-> **Nota**: A estrutura é apenas uma sugestão. Utilize sua criatividade para propor a experiência de bem-estar da forma que considerar mais apropriada.
+> **OBS**: A estrutura é apenas uma sugestão. Utilize sua criatividade para propor a experiência de bem-estar da forma que considerar mais apropriada.
 
 ## Entrega
 Realize a entrega do link do Figma público para os e-mails:
