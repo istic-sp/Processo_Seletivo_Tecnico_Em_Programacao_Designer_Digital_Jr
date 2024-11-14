@@ -22,7 +22,7 @@ Criar um protótipo funcional que apresente soluções voltadas para o bem-estar
 - **Usabilidade**: Facilidade de navegação e acesso aos recursos pensados.
 
 ## Guia de Estilos:
-- https://www.figma.com/design/R0TdKCm6PsxxmnV7zAxUiR/Untitled?node-id=0-1&t=kMqzNWHaVImGaeor-1(https://www.figma.com/design/R0TdKCm6PsxxmnV7zAxUiR/Untitled?node-id=0-1&t=kMqzNWHaVImGaeor-1)
+- https://www.figma.com/design/R0TdKCm6PsxxmnV7zAxUiR/Untitled?node-id=0-1&t=kMqzNWHaVImGaeor-1
 
 ## Proposta de Estrutura
 Sinta-se livre para definir as telas e os elementos que comporão a solução. O protótipo deve focar em funcionalidades e design que promovam o bem-estar e o engajamento dos colaboradores, considerando:
